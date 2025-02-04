@@ -2,18 +2,42 @@
   ["Rain's Super Cool Source!"],
   {
     "id": "Pizza",
-    "image": "https://papasgamesx.github.io/img/games/papas-pizzeria.webp",
-    "src": "https://bitent.com/swf/papas_pizzeria/",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasPizzeria_OG-logo.jpg",
+    "src": "https://www.coolmathgames.com/0-papas-pizzeria/play",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
     "name": "Papas Pizzeria"
   },
   {
     "id": "Burger",
-    "image": "https://papaspizzeria.github.io/rs/imgs/papas-burgeria1.jpg",
-    "src": "https://en.gameslol.net/data/awayjs/index.html?g=1594",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasBurgeria_OG-logo.jpg",
+    "src": "https://www.coolmathgames.com/0-papas-burgeria/play",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
     "name": "Papas Pizzeria"
+  },
+  {
+    "id": "Bake",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasBakeria_OG-logo.jpg",
+    "src": "https://www.coolmathgames.com/0-papas-bakeria/play",
+    "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
+    "js_button": "Beetle.",
+    "name": "Papas Bakeria"
+  },
+  {
+    "id": "Pasta",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasPastaria_OG-logo.jpg",
+    "src": "https://www.coolmathgames.com/0-papas-pastaria/play",
+    "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
+    "js_button": "Beetle.",
+    "name": "Papas Pastaria"
+  },
+  {
+    "id": "Taco",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasTacoMia_OG-logo.jpg",
+    "src": "https://www.coolmathgames.com/0-papas-taco-miaplay",
+    "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
+    "js_button": "Beetle.",
+    "name": "Snubs- I mean, Papas Taco Mia"
   }
 ]
