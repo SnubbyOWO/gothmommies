@@ -2,7 +2,7 @@
   ["Rain's Super Cool Source!"],
   {
     "id": "Pizza",
-    "image": "https://lh5.googleusercontent.com/aTEIk1Q3fEc1ecNrFxITLacMAXgSSpwLDkvYPqN7Y7zDw5D4LqCW6KSJIFlrbWQI-GNvxIwxX6pyRZhZ8CAmjZobDWxk8ePMD-Ocp0NUNH_swKKAJRlwHlAIOVyUxgW-Tg=w1280",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasPizzeria_OG-logo.jpg",
     "src": "https://bo1elzsnq8fkhmqrj3l4qimd-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc/papa-s-pizzeria.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
@@ -10,7 +10,7 @@
   },
   {
     "id": "Burger",
-    "image": "https://papaspizzeria2.io/data/image/game/papas-burgeria.png",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasBurgeria_OG-logo.jpg",
     "src": "https://mAgjkynf3nXnnwJHSCFOhLBQ-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-burgeria.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
@@ -18,7 +18,7 @@
   },
   {
     "id": "Bake",
-    "image": "https://lh6.googleusercontent.com/fuqfsloJqkUbx18jmY37sIb4ppfNDFMkOZVNetBMv5kFhlXampmZt4pu-QtNtnSIiqz7G8V881h1ucG4fDRFEGE=w1280",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasBakeria_OG-logo.jpg",
     "src": "https://yluyu1yxxg3fzg1kq59xynma-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc/papas-bakeria.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
@@ -26,7 +26,7 @@
   },
   {
     "id": "Pasta",
-    "image": "https://lh4.googleusercontent.com/E0ZZtYCpRKaVfhUMy5G1bh2d-B5peGTpKSrZeZ82GU-NGwCK5siNJJJGR8Qae6C-OI9wDcl6dsXbN8ZQIJIsoHM=w1280",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasPastaria_OG-logo.jpg",
     "src": "https://mAgjkynf3nXnnwJHSCFOhLBQ-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-burgeria.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
@@ -34,7 +34,7 @@
   },
   {
     "id": "Taco",
-    "image": "https://lh5.googleusercontent.com/4ETODbUABKBIbtOvPUYCA6ukwiC7Dvfr4nPP4WPDd4PDsJsDffDLI6pkpRkf1hX2iP-E_GyWMnSejoSRwLMRp3g=w1280",
+    "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasTacoMia_OG-logo.jpg",
     "src": "https://eYcItNL3831Rn0HaNjyYZ0AF-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-taco-mia.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
