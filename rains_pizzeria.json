@@ -3,7 +3,7 @@
   {
     "id": "Pizza",
     "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasPizzeria_OG-logo.jpg",
-    "src": "https://bo1elzsnq8fkhmqrj3l4qimd-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc/papa-s-pizzeria.xml&container=ig",
+    "src": "https://bo1elzsnq8fkhmqrj3l4qimd-opensocial.googleusercontent.com/gadgets/ifr?url=https://gothmommies.org/xml/papa-s-pizzeria.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
     "name": "Papas Pizzeria"
@@ -11,7 +11,7 @@
   {
     "id": "Burger",
     "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasBurgeria_OG-logo.jpg",
-    "src": "https://mAgjkynf3nXnnwJHSCFOhLBQ-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-burgeria.xml&container=ig",
+    "src": "https://mAgjkynf3nXnnwJHSCFOhLBQ-opensocial.googleusercontent.com/gadgets/ifr?url=https://gothmommies.org/xml/papa-s-burgeria.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
     "name": "Papas Pizzeria"
@@ -19,7 +19,7 @@
   {
     "id": "Bake",
     "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasBakeria_OG-logo.jpg",
-    "src": "https://yluyu1yxxg3fzg1kq59xynma-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc/papas-bakeria.xml&container=ig",
+    "src": "https://yluyu1yxxg3fzg1kq59xynma-opensocial.googleusercontent.com/gadgets/ifr?url=https://gothmommies.org/xml/papas-bakeria.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
     "name": "Papas Bakeria"
@@ -27,7 +27,7 @@
   {
     "id": "Pasta",
     "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasPastaria_OG-logo.jpg",
-    "src": "https://mAgjkynf3nXnnwJHSCFOhLBQ-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-burgeria.xml&container=ig",
+    "src": "https://mAgjkynf3nXnnwJHSCFOhLBQ-opensocial.googleusercontent.com/gadgets/ifr?url=https://gothmommies.org/xml/papa-s-pastaria.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
     "name": "Papas Pastaria"
@@ -35,7 +35,7 @@
   {
     "id": "Taco",
     "image": "https://www.coolmathgames.com/sites/default/files/styles/thumbnail_202_x_auto/public/PapasTacoMia_OG-logo.jpg",
-    "src": "https://eYcItNL3831Rn0HaNjyYZ0AF-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-taco-mia.xml&container=ig",
+    "src": "https://eYcItNL3831Rn0HaNjyYZ0AF-opensocial.googleusercontent.com/gadgets/ifr?url=https://gothmommies.org/xml/papa-s-taco-mia.xml&container=ig",
     "js": "window.open('about:blank').document.write(`<body style='display:flex;justify-content:center;align-items:center;height:100vh;margin:0;user-select:none;'><img style='width:100%;height:100%;object-fit:contain;' src='img/beetle.png' oncontextmenu='return false' draggable='false'></body>`);",
     "js_button": "Beetle.",
     "name": "Snubs- I mean, Papas Taco Mia"
